@@ -1,5 +1,5 @@
 
-<h1 align="center">Всем привет, меня зовут Аелександр<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Всем привет, меня зовут Аелександр  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">Учусь в Я.Практикуме на курсе Фронтенд-разработчик буткемп<h2/>
 
 ## Обо мне:
@@ -23,6 +23,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<a href="www.linkedin.com/in/aliaksandrvasko-5387751b6">
-	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<div id="socials" align="center">
+	<a href="www.linkedin.com/in/aliaksandrvasko-5387751b6">
+		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+	</a>
+	<a href="https://vk.com/id641860352">
+		<img src="<img src="https://img.icons8.com/3d-fluency/94/null/vk-circled.png"/>" alt="ВКонтакте"/>
+	</a>
+</div>
