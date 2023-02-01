@@ -6,7 +6,16 @@
 
 ### Мне нравится решать сложные задачи: разрабатывать сайты и веб-приложения или создавать дизайн сайтов с удобным интерфейсом. Меня захватывает процесс разработки и возможность создавать удобные и полезные продукты.
 
+<h3>Мои цели:</h3>
+<ul>
+	<li>Научиться писать чистый код;</li>
+	<li>Внести вклад в успех компании;</li>
+	<li>Работать в дружной команде разработчиков;</li>
+	<li>Внести вклад в успех компании.</li>
+</ul>
 
+	
+	
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SASMUS12)](https://git.io/streak-stats)
 
@@ -26,8 +35,5 @@
 <div id="socials" align="center">
 	<a href="www.linkedin.com/in/aliaksandrvasko-5387751b6">
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-	</a>
-	<a href="https://vk.com/id641860352">
-		<img src="<img src="https://img.icons8.com/3d-fluency/94/null/vk-circled.png"/>" alt="ВКонтакте"/>
 	</a>
 </div>
