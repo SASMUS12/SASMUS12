@@ -37,3 +37,14 @@
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 	</a>
 </div>
+	<div id="socials" align="center">
+	<a href="mailto:?subject=I wanted you to see this site&amp;body=Check out this site http://www.website.com."
+   title="Share by Email">
+  <img src="http://png-2.findicons.com/files/icons/573/must_have/48/mail.png">
+</a>
+</div>
+<div id="socials" align="center">
+	<a href="www.linkedin.com/in/aliaksandrvasko-5387751b6">
+		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+	</a>
+</div>
