@@ -1,6 +1,6 @@
 <h1 align="center">Всем привет, меня зовут Александр  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Учусь+в+Я.Практикум)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Закончил+Я.Практикум)](https://git.io/typing-svg)
 
 <h2>курс Фронтенд-разработчик буткемп<h2/>
 	
